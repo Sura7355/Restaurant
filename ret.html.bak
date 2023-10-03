@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>STAR BELLY</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to STAR BELLY</h1>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#menu">Menu</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Explore a world of flavors at Restaurant Name. Our expert chefs create delectable dishes using the finest ingredients to satisfy your taste buds.</p>
+    </section>
+
+    <section id="menu">
+        <h2>Menu</h2>
+        <div class="menu-item">
+            <img src="butter-chicken.jpg" alt="Dish 1">
+            <h3>BUTTER CHICKEN</h3>
+            <p>dish, originating in the Indian subcontinent, of chicken in a mildly spiced tomato sauce. It is also known as murgh mahal.</p>
+        </div>
+        <div class="menu-item">
+            <img src="naan.jpg" alt="Dish 2">
+            <h3>NAAN</h3>
+            <p>Tandoor-baked soft flatbread made with refined wheat flour.</p>
+        </div>
+		<div class="menu-item">
+            <img src="Paneer-Butter-Masala.jpg" alt="Dish 3">
+            <h3>PAANEER BUTTER MASALA</h3>
+            <p>Paneer Butter Masala is a popular vegetarian dish in Indian cuisine. It is a creamy and aromatic curry made with soft cubes of paneer butter, tomato sauce, and a blend of flavorful spices such as cumin, coriander, and garam masala.</p>
+        </div>
+		<div class="menu-item">
+            <img src="Dahi-vada.jpg" alt="Dish 4">
+            <h3>DAHI VADA</h3>
+            <p>Fried lentil balls in a yogurt sauce. Lentils, yogurt.</p>
+        </div>
+        <!-- Add more menu items as needed -->
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>For reservations, please call: 9145755086</p>
+        <p>Visit us at: 21 MealTime, Nagpur, Maharashtra,440015</p>
+    </section>
+
+    <footer>
+        <p>STAR BELLY</p>
+    </footer>
+</body>
+</html>
